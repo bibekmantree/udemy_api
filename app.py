@@ -29,7 +29,7 @@ def hello():
     return render_template('index.html')
 # I am a server.
 # POST: used to receive data
-# GET is used to send data
+# GET: used to send data
 
 
 # POST /store {name:}
